@@ -5,4 +5,4 @@ The image size of an image after being compressed using this method will depend 
 
 Based on the Portable Network Graphics (PNG) Specification [13], if the number of distinct pixel values is 256 or less and the alpha channel is absent then the alternative indexed-colour representation, achieved through an indexing transformation, may be more efficient for encoding.
 
-![png specification](https://www.w3.org/TR/2003/REC-PNG-20031110/png-figures/fig44.png)
+![png specification](https://www.oreilly.com/api/v2/epubs/0596009879/files/httpatomoreillycomsourceoreillyimages110919.png)
